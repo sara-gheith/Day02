@@ -1,3 +1,3 @@
 # Day02
 
-Working today on Scratch!
+Working today in Scratch!
